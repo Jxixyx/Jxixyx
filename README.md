@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jxixyx
-- I am currently working on a CanSat
+
 
 <!---
 Jxixyx/Jxixyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
